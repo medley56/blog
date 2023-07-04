@@ -1,0 +1,13 @@
+---
+header:
+  - name: Posts
+    ref: "/posts"
+  - name: About
+    ref: "/about"
+  - name: Github Profile
+    icon: gblog_github
+    ref: "https://github.com/medley56"
+    external: true
+
+footer:
+  
