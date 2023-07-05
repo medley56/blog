@@ -14,6 +14,10 @@ Some nonzero number of future posts will likely contain useful information.
 
 Here goes...
 
+{{<hint type="important">}}
+I am not an expert.
+{{</hint>}}
+
 # Theory of Mind
 
 With all the recent buzz surrounding large language models (LLMs) and AI generally, 
