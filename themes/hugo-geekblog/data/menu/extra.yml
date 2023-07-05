@@ -1,0 +1,15 @@
+---
+header:
+  - name: Mastodon Profile
+    icon: gblog_mastodon
+    ref: "https://frontrange.co/@medley56"
+    external: true
+  - name: Github Profile
+    icon: gblog_github
+    ref: "https://github.com/medley56"
+    external: true
+
+footer:
+  - name: About
+    icon: gblog_email
+    ref: "/about"

@@ -1,5 +1,5 @@
 baseURL = "http://blog.gavinmedley.com"
-title = "Gavin's Blog"
+title = "Gavin Medley's Blog"
 theme = "hugo-geekblog"
 
 pluralizeListTitles = true
