@@ -42,3 +42,11 @@ disablePathToLower = true
   section = ["HTML"]
   taxonomy = ["HTML"]
   term = ["HTML", "ATOM"]
+
+[params]
+  subtitle = "An Exercise"
+
+  logo = "headshot.png"
+
+  [params.geekblogContentLicense]
+    name = "Copyright 2023 Gavin Medley"
