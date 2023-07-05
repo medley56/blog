@@ -1,8 +1,8 @@
-baseURL = "http://localhost"
-title = "Geekblog"
+baseURL = "http://medley56.github.io/blog"
+title = "Gavin's Blog"
 theme = "hugo-geekblog"
 
-pluralizeListTitles = false
+pluralizeListTitles = true
 
 # Geekblog required configuration
 pygmentsUseClasses = true
