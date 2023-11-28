@@ -1,7 +1,7 @@
 ---
 title: "DAT329 - DynamoDB Schema Design"
 date: 2023-11-27T08:30:00-07:00
-draft: true
+draft: false
 ---
 
 ## Schema Design
